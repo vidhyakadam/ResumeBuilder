@@ -1,0 +1,55 @@
+body{
+    background-color: rgb(190, 145, 21);
+    margin: 0;
+    padding: 0;
+}
+#cv-form{
+   /* display: none; */
+    background-color: azure;
+    box-shadow: 10px 5px 5px  rgb(15, 15, 15);
+}
+.background{
+    background-color: rgb(108, 108, 199);
+    
+
+}
+#cv-template{
+    display: none; 
+}
+.profile{
+    border-radius: 50%;
+    height: 200px;
+    width: 200px;
+}
+.container-fluid{
+}
+.text-center{
+    margin-top: 5px;
+    
+}
+.mainimg{
+    background: radial-gradient(130deg, #b93636 #ffffff);
+    display: flex;
+    justify-content: space-around;
+}
+.main-img{
+    height: 100vh;
+    display: flex;
+    justify-content: flex-end;
+width: auto;
+}
+.navbar{
+    height: 60px;
+    background-color: rgb(151, 202, 92);
+    background-color: #b93636;
+
+}
+#linkdeinT{
+    cursor: pointer;
+}
+#githubT{
+    cursor: pointer;
+}
+#letoceT{
+    cursor: pointer;
+}
