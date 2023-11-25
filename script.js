@@ -12,7 +12,6 @@ function addNewWEField() {
 
     weOb.insertBefore(newNode, weAddButtonOb);
 }
-
 function addNewAQ() {
     let newNode = document.createElement("textarea");
     newNode.classList.add("form-control");
